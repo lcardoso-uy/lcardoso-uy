@@ -1,5 +1,5 @@
-- 👋 Hi, I’m @lcardoso-uy
-- 👀 I’m interested in innovation, ux, design, software development
+- 👋 Hi, I’m Laura Cardoso
+- 👀 I’m interested in innovation, ux, design, software development, project and product management
 - 🌱 I’m currently learning innovation and data science
 - 💞️ I’m looking to collaborate on innovation - user centered-design 
 - 📫 How to reach me - mail me: lcardosogx@gmail.com
